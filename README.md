@@ -1,6 +1,7 @@
 # Git Credential Manager
 
 [![Build Status][build-status-badge]][workflow-status]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcceneag%2Fgit-credential-manager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcceneag%2Fgit-credential-manager?ref=badge_shield)
 
 ---
 
@@ -144,3 +145,6 @@ When using GitHub logos, please be sure to follow the
 [roadmap]: https://github.com/git-ecosystem/git-credential-manager/milestones?direction=desc&sort=due_date&state=open
 [roadmap-announcement]: https://github.com/git-ecosystem/git-credential-manager/discussions/1203
 [workflow-status]: https://github.com/git-ecosystem/git-credential-manager/actions/workflows/continuous-integration.yml
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcceneag%2Fgit-credential-manager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcceneag%2Fgit-credential-manager?ref=badge_large)
